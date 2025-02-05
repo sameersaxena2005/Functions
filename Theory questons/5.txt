@@ -1,0 +1,4 @@
+Iterators vs Iterables:
+
+Iterable: An object that can be iterated using a loop (Lists, Tuples, Strings).
+Iterator: An object with __iter__() and __next__() methods.

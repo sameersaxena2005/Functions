@@ -1,0 +1,3 @@
+Generators in Python:
+
+Special functions that return an iterator using yield instead of return.

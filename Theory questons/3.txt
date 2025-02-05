@@ -1,0 +1,4 @@
+Ways to Define and Call a Function in Python:
+
+Defining: Using def (Normal, Lambda, Generator).
+Calling: Direct call (func()), Recursive call (func(func())), Using map(), filter().

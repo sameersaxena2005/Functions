@@ -1,0 +1,3 @@
+Lambda Function in Python:
+
+Anonymous function written as lambda arguments: expression, used for short, one-line functions.

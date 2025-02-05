@@ -1,0 +1,5 @@
+Internal Mechanism of reduce() for Sum on [47, 11, 42, 13]:
+Step 1: 47 + 11 = 58  
+Step 2: 58 + 42 = 100  
+Step 3: 100 + 13 = 113  
+Result = 113  

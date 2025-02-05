@@ -1,0 +1,4 @@
+Difference between a function and a method in Python:
+
+A function is an independent block of code defined using def that can be called anywhere in the program.
+A method is a function that is associated with an object and is called using the . operator, usually within a class.

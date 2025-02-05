@@ -1,0 +1,3 @@
+Advantages of Generators Over Regular Functions:
+
+Memory-efficient (lazy evaluation), Faster execution, Supports infinite sequences.

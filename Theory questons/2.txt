@@ -1,0 +1,4 @@
+Function Arguments and Parameters in Python:
+
+Parameters: Variables used in function definitions (def func(a, b): ...).
+Arguments: Values passed to the function (func(5, 10)).

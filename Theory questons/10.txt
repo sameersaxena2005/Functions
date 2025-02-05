@@ -1,0 +1,5 @@
+Difference Between map(), reduce(), and filter():
+
+map(): Applies a function to all elements.
+filter(): Filters elements based on a condition.
+reduce(): Reduces iterable to a single value using a function (needs functools.reduce).
